@@ -95,8 +95,9 @@ Project_code/
 ├── maze.py
 ├── search_algo.py
 │
-└── Team Contributions/
-    └── team_members.txt
+├── project Report.pdf
+└── project presentation.pdf
+
 ```
 
 ---
